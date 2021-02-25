@@ -5,9 +5,8 @@ font-family: arial, helvetica, sans-serif;
 }
 
 #tudo{
-    
-    border-bottom: 5px solid pink;}
-
+    border-bottom: 5px solid pink;
+}
 .menu{
     list-style:none;
     float: right;
@@ -29,17 +28,12 @@ font-family: arial, helvetica, sans-serif;
     text-shadow:0px 0px 5px #fff;
 }
 
-
 .lais{
     padding:20px 10px;
     font-size: 23px;
     color:black;
 }
 
-
-#imagem{
-    text-align: center;
-}
 
 #home{
     background-color:white;
@@ -52,6 +46,8 @@ font-family: arial, helvetica, sans-serif;
 }
 
 #home h2{
+    width: 500px;
+    height: 500px;
     text-align: center;
     color: pink;
 }
